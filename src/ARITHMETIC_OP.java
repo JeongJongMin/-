@@ -4,7 +4,7 @@ public class ARITHMETIC_OP {
     static String[] arithmeticArray = new String[10];
     static int index = 0;
     static int end_of_arithmeticOp = 0;
-
+    //실험
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String arithmeticOp = sc.nextLine();
